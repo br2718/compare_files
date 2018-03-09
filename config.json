@@ -1,0 +1,17 @@
+{
+	"paths": [{
+		"name": "./file1.csv",
+		"hasHeader": false,
+		"includeHeader": true,
+		"columnsToCompare": [0,2],
+		"columnsToSortBy": [0,1]
+	}, {
+		"name": "./file2.csv",
+		"hasHeader": false,
+		"includeHeader": true,
+		"columnsToCompare": [0,2],
+		"columnsToSortBy": [0,1]
+	}],
+		
+	"outputDirectory": "./output"	
+}
